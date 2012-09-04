@@ -1,0 +1,7 @@
+## Title: GreySeller
+## Version: 0.3.0
+## Interface: 50001 
+## Author: Marco Nicolini - Elba @ Hakkar-EU
+## XEmail: marco.nicolini.wowdev@gmail.com
+## Notes: Automagically sells all your junk!
+GreySeller.lua
