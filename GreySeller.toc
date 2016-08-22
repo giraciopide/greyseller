@@ -1,7 +1,7 @@
 ## Title: GreySeller
-## Version: 0.3.3
-## Interface: 50400
-## Author: Marco Nicolini - Elba @ Nemesis-EU
+## Version: 0.3.4
+## Interface: 70000
+## Author: Marco Nicolini - Elba @ Pozzo dell'Eternità-EU
 ## XEmail: marco.nicolini.wowdev@gmail.com
 ## Notes: Automagically sells all your junk!
 GreySeller.lua
