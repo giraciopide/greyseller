@@ -1,6 +1,7 @@
 --
 --
 -- GreySeller by Elba @ Pozzo Dell'Eternità - Europe
+--
 -- A wow addon that simply tries to sell any grey item to every vendor
 -- you will encounter.
 -- This will hopefully help you in keeping your bags to become cluttered
