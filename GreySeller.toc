@@ -1,5 +1,5 @@
 ## Title: GreySeller
-## Version: 0.3.4
+## Version: 7.0.0
 ## Interface: 70000
 ## Author: Marco Nicolini - Elba @ Pozzo dell'Eternità-EU
 ## XEmail: marco.nicolini.wowdev@gmail.com
